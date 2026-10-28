@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+Pillow
+requests
+folium
+streamlit-folium
+streamlit-geolocation
+streamlit-searchbox
